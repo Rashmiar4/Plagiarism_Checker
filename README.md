@@ -12,5 +12,5 @@
 ![output 3](https://github.com/Rashmiar4/Plagiarism_Checker/assets/132745154/9a2a3c7a-db6b-4b60-9c3d-424c44664493)
 
 
-#Output 4
+
 ![output 4](https://github.com/Rashmiar4/Plagiarism_Checker/assets/132745154/05a87d77-54e9-460c-833b-4c3f9e2e18d1)
