@@ -1,0 +1,6 @@
+Machine learning (ML) is a type of artificial intelligence that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning algorithm use historical data as input to predict new output values.
+Machine Learning is said as a subset of artificial intelligence that is mainly concerned with the development of algorithms which allow a computer to learn from the data and past experiences on their own. The term machine learning was first introduced by Arthur Samuel in 1959. We can define it in a summarized way as:
+Machine learning enables a machine to automatically learn from data, improve performance from experiences, and predict things without being explicitly programmed.
+
+
+
