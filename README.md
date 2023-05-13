@@ -4,7 +4,8 @@
 
 
 #Output 2
-![output 2](https://github.com/Rashmiar4/Plagiarism_Checker/assets/132745154/10a44fa0-27a1-405e-91e7-8d7f602bae13)
+![output 2](https://github.com/Rashmiar4/Plagiarism_Checker/assets/132745154/3f3a15c7-f487-40e0-9053-89e2363a5140)
+
 
 
 
